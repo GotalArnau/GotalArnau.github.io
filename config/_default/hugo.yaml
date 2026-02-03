@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: Arnau Gómez Català
 # Website URL
-baseURL: 'https://GotalArnau.github.io/'
+baseURL: 'https://gotalarnau.github.io/'
 
 ############################
 ## LANGUAGE
