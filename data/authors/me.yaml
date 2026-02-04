@@ -2,18 +2,16 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Arnau Gómez Català
+  given: Arnau
+  family: Gómez-Català
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: ''
 postnominals:
-  - PhD
-  - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: ""
+role: Undergraduate Research Assistant in Biostatistics
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -21,49 +19,46 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Universitat Politècnica de Catalunya - UPC
+    url: https://upd.edu.com/
+  - name: Universitat de Barcelona - UB
+    url: https://web.ub.edu/es/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:arnau.gomez17badalona@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/GotalArnau
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/arnau-g%C3%B3mez-catal%C3%A0-b45a3028a/
 
 interests:
-  - Large Language Models
-  - Computer Vision
+  - Bioscience
+  - Biomedicine
   - Reinforcement Learning
   - AI Ethics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  #- degree: PhD Computer Science
+  #  institution: Stanford University
+  #  start: 2015-09-01
+  #  end: 2019-06-30
+  #  summary: |
+  #    Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+  #  button:
+  #    text: Download dissertation
+  #    url: /resume.pdf
+  #    icon: hero/arrow-down-tray
+  #- degree: MS Computer Science
+  #  institution: Carnegie Mellon University
+  #  start: 2013-09-01
+  #  end: 2015-05-31
+  - degree: "Bachelor's degree in Statistics"
+    institution: UB - UPC
+    start: 2022-09-01
+    end: Present
+    
 
 experience:
   - role: Senior AI Research Scientist
