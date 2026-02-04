@@ -6,8 +6,8 @@ title: Arnau Gómez Català
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Nora
-last_name: Amama-BenHassun
+first_name: Arnau
+last_name: Gómez Català
 
 # Pronouns (optional)
 pronouns: ''
@@ -23,25 +23,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Statistics and Operation Research (UPC)
+role: Undergraduate Research Assistant at the UPC
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Siemens Energy AI Chair – UPC
+  - name: Universitat Politéctica de Catalunya - UPC
     url: https://aichair.upc.edu/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:nora.amama@upc.edu'
+    url: 'mailto:arnau.gomez17badalona@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/abhNora
+    url: https://github.com/gotalarnau
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/nora-amama-ben-hassun-4a8083200/
-  - icon: academicons/orcid
-    url: https://orcid.org/0009-0004-7598-0100
+    url: https://www.linkedin.com/in/arnau-g%C3%B3mez-catal%C3%A0-b45a3028a/
 
 interests:
   - Synthetic Data Generation and Validation
