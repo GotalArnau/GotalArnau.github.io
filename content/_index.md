@@ -39,7 +39,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Work'
       subtitle: ''
       text: |
         Professionally, I serve as an Undergraduate Research Assistant within the GRBIO Biostatistics and Bioinformatics Research Group at the Department of Statistics and Operations Research (UPC-BarcelonaTech). 
@@ -47,7 +47,9 @@ sections:
         and developing the Shiny web application MSMPred for multistate predictive modeling, tools designed to enhance statistical practice in clinical research.
         
         Beyond programming, I engage in the full spectrum of research activities. This encompasses rigorous code review and debugging to ensure reproducibility, 
-        managing the group's digital communication via its website and newsletter, and coordinating biweekly research seminars that bridge the gap between clinicians, biostatisticians, and international researchers. 
+        managing the group's digital communication via its website and newsletter, and coordinating biweekly research seminars that bridge the gap between clinicians, biostatisticians, and international researchers.
+
+        I am open to collaborations and would be glad to connect.
   
     design:
       columns: '1'
