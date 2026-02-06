@@ -41,12 +41,14 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
-        cydrycycdurtsujm
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+      text: |
+        Professionally, I serve as an Undergraduate Research Assistant within the GRBIO Biostatistics and Bioinformatics Research Group at the Department of Statistics and Operations Research (UPC-BarcelonaTech). 
+        In this role, I am actively involved in methodological research and software development. My key contributions include extending the functionality of the R package Go/Cens for survival analysis 
+        and developing the Shiny web application MSMPred for multistate predictive modeling, tools designed to enhance statistical practice in clinical research.
+        
+        Beyond programming, I engage in the full spectrum of research activities. This encompasses rigorous code review and debugging to ensure reproducibility, 
+        managing the group's digital communication via its website and newsletter, and coordinating biweekly research seminars that bridge the gap between clinicians, biostatisticians, and international researchers. 
+  
     design:
       columns: '1'
   - block: collection
