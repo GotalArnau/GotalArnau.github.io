@@ -64,16 +64,18 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+    
+  #- block: collection
+  #  content:
+  #    title: Recent Publications
+  #    text: ''
+  #    filters:
+  #      folders:
+  #        - publications
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
+  
   - block: collection
     id: talks
     content:
@@ -83,6 +85,7 @@ sections:
           - events
     design:
       view: card
+    
   - block: collection
     id: news
     content:
@@ -112,6 +115,15 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: markdown
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        📧 <a href="mailto:arnau.gomez17badalona@gmail.com">arnau.gomez17badalona@gmail.com</a><br>
+        📍 Carrer de Jordi Girona, 1-3, 08034 Barcelona, Spain
+    design:
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:
