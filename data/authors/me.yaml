@@ -13,9 +13,18 @@ status:
   icon: ""
 role: Undergraduate Research Assistant in Biostatistics
 bio: |
-  I am a statistics student and undergraduate research assistant in biostatistics at the research group in biostatistics and bioinformatics (GRBIO)
-  at the Department of Statistics and Operations Research of the Universitat Politècnica de Catalunya - BarcelonaTech (UPC).
-
+  I am a dedicated and proactive final-year student pursuing an Interuniversity Bachelor's Degree in Statistics at the Universitat de Barcelona and Universitat Politècnica de Catalunya,
+  with a strong academic focus on advanced quantitative methods, statistical modeling, and their application to biomedical sciences.
+  
+  Professionally, I serve as an Undergraduate Research Assistant within the GRBIO Biostatistics and Bioinformatics Research Group at the Department of Statistics and Operations Research (UPC-BarcelonaTech). 
+  In this role, I am actively involved in methodological research and software development. My key contributions include extending the functionality of the R package Go/Cens for survival analysis 
+  and developing the Shiny web application MSMPred for multistate predictive modeling, tools designed to enhance statistical practice in clinical research.
+  
+  Beyond programming, I engage in the full spectrum of research activities. This encompasses rigorous code review and debugging to ensure reproducibility, 
+  managing the group's digital communication via its website and newsletter, and coordinating biweekly research seminars that bridge the gap between clinicians, biostatisticians, and international researchers. 
+  
+  My technical expertise is grounded in advanced proficiency in R (including Shiny and R Markdown), SAS, and SQL, with practical experience in statistical modeling, survival analysis, and predictive analytics. 
+  
 affiliations:
   - name: Universitat Politècnica de Catalunya - UPC
     url: https://upd.edu.com/
@@ -56,6 +65,13 @@ education:
     institution: UB - UPC
     start: 2022-09-01
     end: Present
+    summary: |
+        Ongoing final project on goodness-of-fit tests with right-censored data
+        
+  - degree: "High-School at the Technological Track"
+    institution: INS. La Llauna
+    start: 2020-09-01
+    end: 2022-06-25  
     
 
 experience:
