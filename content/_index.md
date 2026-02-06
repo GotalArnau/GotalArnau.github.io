@@ -52,7 +52,7 @@ sections:
         I am open to collaborations and would be glad to connect.
   
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
