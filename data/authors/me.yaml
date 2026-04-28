@@ -68,11 +68,11 @@ education:
     
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research suporter assistant
+    org: GRBIO - DEIO,  Polytechnic University of Catalonia
+    start: 2025-03-09
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Auxiliant al grup de recerca en Bioinformàtica i Bioestadística de la UPC
     button:
       text: View portfolio
       url: /
