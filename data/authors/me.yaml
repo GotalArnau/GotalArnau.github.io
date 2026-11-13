@@ -11,18 +11,20 @@ name:
 postnominals:
 status:
   icon: ""
-role: Undergraduate Research Assistant in Biostatistics
+role: Master Student in Biostatistics and Data Science
 bio: |
-  I am a dedicated and proactive final-year student pursuing an Interuniversity Bachelor's Degree in Statistics at the Universitat de Barcelona and Universitat Politècnica de Catalunya,
+  I am a dedicated and proactive first-year student pursuing an Interuniversity Master's Degree in Biostatistics and Data Science at the KTH Royal Institute of Technology, Karolinska Institutet and Stockholms University,
   with a strong academic focus on advanced quantitative methods, statistical modeling, and their application to biomedical sciences.
   
   My technical expertise is grounded in advanced proficiency in R (including Shiny and R Markdown), SAS, and SQL, with practical experience in statistical modeling, survival analysis, and predictive analytics. 
   
 affiliations:
-  - name: Universitat Politècnica de Catalunya - UPC
-    url: https://upd.edu.com/
-  - name: Universitat de Barcelona - UB
-    url: https://web.ub.edu/es/
+  - name: KTH Royal Institute of Technology
+    url: https://www.kth.se/en
+  - name: Karolinska Institutet (KI)
+    url: https://ki.se/
+  - name: Stockholms University (SU)
+    url: https://www.su.se/english
 
 links:
   - icon: at-symbol
@@ -50,14 +52,14 @@ education:
   #    text: Download dissertation
   #    url: /resume.pdf
   #    icon: hero/arrow-down-tray
-  #- degree: MS Computer Science
-  #  institution: Carnegie Mellon University
-  #  start: 2013-09-01
-  #  end: 2015-05-31
+  - degree: "Master's Program in Biostatistics and Data Science"
+    institution: '<a href="https://www.kth.se/en" target="_blank">KTH</a> - <a href="https://ki.se/" target="_blank">KI</a> - <a href="https://www.su.se/english" target="_blank">SU</a>'
+    start: 2013-09-01
+    end: 2015-05-31
   - degree: "Bachelor's degree in Statistics"
-    institution: UB - UPC
+    institution: '<a href="https://www.ub.edu/" target="_blank">UB</a> - <a href="https://www.upc.edu/" target="_blank">UPC</a>'
     start: 2022-09-01
-    end: Present
+    end: 2026-06-30
     summary: |
         Ongoing final project on goodness-of-fit tests with right-censored data
         
