@@ -53,7 +53,7 @@ education:
   #    url: /resume.pdf
   #    icon: hero/arrow-down-tray
   - degree: "Master's Program in Biostatistics and Data Science"
-    institution: '<a href="https://www.kth.se/en" target="_blank">KTH</a> - <a href="https://ki.se/" target="_blank">KI</a> - <a href="https://www.su.se/english" target="_blank">SU</a>'
+    institution: '[KTH](https://www.kth.se/en) - [KI](https://ki.se/) - [SU](https://www.su.se/english)'
     start: 2013-09-01
     end: 2015-05-31
   - degree: "Bachelor's degree in Statistics"
