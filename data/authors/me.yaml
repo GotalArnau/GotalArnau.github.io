@@ -61,6 +61,7 @@ education:
       text: "Visitar web oficial del máster"
       url: "https://www.kth.se/en/studies/master/biostatistics-and-data-science/msc-biostatistics-and-data-science-1.1262644"
       icon: "hero/arrow-top-right-on-square"
+    [👉 Visitar web oficial del máster](https://www.kth.se/en/studies/master/biostatistics-data-science)
   - degree: "Bachelor's degree in Statistics"
     institution: '<a href="https://www.ub.edu/" target="_blank">UB</a> - <a href="https://www.upc.edu/" target="_blank">UPC</a>'
     start: 2022-09-01
