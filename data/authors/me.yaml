@@ -54,14 +54,9 @@ education:
       icon: hero/arrow-down-tray
   - degree: "Master's Program in Biostatistics and Data Science"
     url: "https://www.kth.se/en/studies/master/biostatistics-and-data-science/msc-biostatistics-and-data-science-1.1262644"
-    institution: "KTH - KI - SU"
-    start: 2013-09-01
-    end: 2015-05-31
-    button:
-      text: "Visitar web oficial del máster"
-      url: "https://www.kth.se/en/studies/master/biostatistics-and-data-science/msc-biostatistics-and-data-science-1.1262644"
-      icon: "hero/arrow-top-right-on-square"
-    [👉 Visitar web oficial del máster](https://www.kth.se/en/studies/master/biostatistics-data-science)
+    organisation: "KTH - KI - SU"
+    start: 2026-08-24
+    end: Present
   - degree: "Bachelor's degree in Statistics"
     institution: '<a href="https://www.ub.edu/" target="_blank">UB</a> - <a href="https://www.upc.edu/" target="_blank">UPC</a>'
     start: 2022-09-01
