@@ -42,23 +42,23 @@ interests:
   - AI Ethics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
+#- degree: PhD Computer Science
+    #institution: Stanford University
+    #start: 2015-09-01
+    #end: 2019-06-30
+    #summary: |
+    #  Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    #button:
+    #  text: Download dissertation
+    #  url: /resume.pdf
+    #  icon: hero/arrow-down-tray
   - degree: "Master's Program in Biostatistics and Data Science"
     url: "https://www.kth.se/en/studies/master/biostatistics-and-data-science/msc-biostatistics-and-data-science-1.1262644"
     organisation: "KTH - KI - SU"
     start: 2026-08-24
     end: Present
   - degree: "Bachelor's degree in Statistics"
-    institution: '<a href="https://www.ub.edu/" target="_blank">UB</a> - <a href="https://www.upc.edu/" target="_blank">UPC</a>'
+    institution: "UB - UPC"
     start: 2022-09-01
     end: 2026-06-30
     summary: |
