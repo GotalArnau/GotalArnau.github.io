@@ -19,7 +19,7 @@ bio: |
   My technical expertise is grounded in advanced proficiency in R (including Shiny and R Markdown), SAS, and SQL, with practical experience in statistical modeling, survival analysis, and predictive analytics. 
   
 affiliations:
-  - name: KTH Royal Institute of Technology
+  - name: Royal Institute of Technology (KTH)
     url: https://www.kth.se/en
   - name: Karolinska Institutet (KI)
     url: https://ki.se/
@@ -42,16 +42,16 @@ interests:
   - AI Ethics
 
 education:
-  #- degree: PhD Computer Science
-  #  institution: Stanford University
-  #  start: 2015-09-01
-  #  end: 2019-06-30
-  #  summary: |
-  #    Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-  #  button:
-  #    text: Download dissertation
-  #    url: /resume.pdf
-  #    icon: hero/arrow-down-tray
+  - degree: PhD Computer Science
+    institution: Stanford University
+    start: 2015-09-01
+    end: 2019-06-30
+    summary: |
+      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    button:
+      text: Download dissertation
+      url: /resume.pdf
+      icon: hero/arrow-down-tray
   - degree: "Master's Program in Biostatistics and Data Science"
     url: "https://www.kth.se/en/studies/master/biostatistics-and-data-science/msc-biostatistics-and-data-science-1.1262644"
     institution: "KTH - KI - SU"
